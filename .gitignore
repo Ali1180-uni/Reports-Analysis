@@ -15,6 +15,10 @@ ENV/
 # Jupyter-generated files
 .ipynb_checkpoints/
 
+# Datasets
+dataset/
+datasets/
+
 # Environment and local configuration
 .env
 .env.*
