@@ -27,3 +27,6 @@ dist/
 *.egg-info/
 .coverage
 htmlcov/
+
+# IDE and editor settings
+XOR_Analysis/
